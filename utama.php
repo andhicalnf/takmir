@@ -1,0 +1,1 @@
+<h1> <img class="img-responsive" src="asset/img/kpu.jpg" align="center" width="50" />  Klik Pemilu di Atas Untuk Memilih!</h1> 
